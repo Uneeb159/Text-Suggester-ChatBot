@@ -1,0 +1,10 @@
+^D:\UNIVERSITY\SEMESTER 3\INTRO TO AI\PROJECT\TEXT SUGGESTOR\BUILD\CMAKEFILES\9D028B08FBFF042BF427161B5CDA92C1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/University/Semester 3/Intro to AI/Project/Text Suggestor" "-BD:/University/Semester 3/Intro to AI/Project/Text Suggestor/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/University/Semester 3/Intro to AI/Project/Text Suggestor/build/AutoCompleteEngine.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

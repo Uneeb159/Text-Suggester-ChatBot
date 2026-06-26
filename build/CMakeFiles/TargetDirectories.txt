@@ -1,0 +1,4 @@
+D:/University/Semester 3/Intro to AI/Project/Text Suggestor/build/CMakeFiles/autocomplete_core.dir
+D:/University/Semester 3/Intro to AI/Project/Text Suggestor/build/CMakeFiles/autocomplete_console.dir
+D:/University/Semester 3/Intro to AI/Project/Text Suggestor/build/CMakeFiles/ALL_BUILD.dir
+D:/University/Semester 3/Intro to AI/Project/Text Suggestor/build/CMakeFiles/ZERO_CHECK.dir
